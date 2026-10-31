@@ -1,0 +1,15 @@
+# Rezultati builda
+build/
+*.o
+
+# Generirani izvještaji
+reports/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editori
+.vscode/
+*.swp

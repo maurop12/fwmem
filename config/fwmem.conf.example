@@ -1,0 +1,9 @@
+# Kapacitet ciljnog čipa (u bajtovima)
+FLASH_SIZE=262144    # 256 KB
+RAM_SIZE=65536       # 64 KB
+
+# Upozorenje kad zauzeće pređe ovaj postotak kapaciteta
+WARN_PERCENT=90
+
+# Najveći dopušteni rast u odnosu na referentni build (u bajtovima)
+MAX_GROWTH=2048
